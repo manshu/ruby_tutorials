@@ -14,5 +14,8 @@ Visit CodeQuizzes.com for practice
         "Michael" => "64890",
         "David" => "12345"
     }
+    g. Varibles - Must start with lowercase letter or Camel     Case. example first_name, global variables $numbers
+    h. Constants -
+
 2. Dive into types of data
 3. Let's look at some examples

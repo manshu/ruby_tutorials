@@ -3,10 +3,10 @@
 In Ruby - Everything is an Object.
 Visit CodeQuizzes.com for practice
 
-1. Let's start with our first ruby.rb file
-2. How to write comments in Ruby
-3. How to run Ruby file in terminal
-4. Introduction to Simple If statement
+1. Let's expand our decision making.
+2. How to use IF Else Statement
+3. How to use Else IF Statement
+4. If Else statement example
     # if comparison (relational expression)
     #   statements
     # end

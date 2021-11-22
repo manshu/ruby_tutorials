@@ -1,4 +1,4 @@
-# Ruby - Chapter 05
+# Ruby - Chapter 05.1
 
 In Ruby - Everything is an Object.
 Visit CodeQuizzes.com for practice

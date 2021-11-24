@@ -7,7 +7,11 @@ Visit CodeQuizzes.com for practice
 2. How to use IF Else Statement
 3. How to use Else IF Statement
 4. If Else statement example
+
+
     # if comparison (relational expression)
+    #   statements
+    # else
     #   statements
     # end
 
